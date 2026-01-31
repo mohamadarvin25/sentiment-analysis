@@ -1,0 +1,25 @@
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Web Scraping
+google-play-scraper>=1.2.4
+tqdm>=4.65.0
+
+# Indonesian NLP
+Sastrawi>=1.0.1
+
+# Imbalanced Data Handling
+imbalanced-learn>=0.11.0
+
+# Deep Learning
+tensorflow>=2.15.0
+
+# Transformers
+transformers>=4.36.0
+torch>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
